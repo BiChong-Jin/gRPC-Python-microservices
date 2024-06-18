@@ -4,6 +4,13 @@
 ## About This Project
 Using python built a gRPC server.
 
+- start server
+  
+![server](https://github.com/BiChong-Jin/gRPC-Python-microservices/assets/130134152/433aa08e-2e3f-486d-a522-48c44655584b)
+- start client
+  
+![client](https://github.com/BiChong-Jin/gRPC-Python-microservices/assets/130134152/48b77d2c-9d58-40ae-85bf-4b140887cab3)
+
 
 
 ## What is gRPC
